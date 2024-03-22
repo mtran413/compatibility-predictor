@@ -1,0 +1,16 @@
+{
+    "scoreApplicants": [
+        {
+            "name": "John",
+            "score": 0.3
+        },
+        {
+            "name": "Jane",
+            "score": 0.5
+        },
+        {
+            "name": "Joe",
+            "score": 0.2
+        }
+    ]
+}
